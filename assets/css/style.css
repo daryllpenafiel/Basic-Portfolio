@@ -38,7 +38,7 @@ footer {
     padding: 20px;
 }
 
-.about-me {
+.main-content {
     width: 960px;
     margin: auto;
     background-color: #ffffff;
@@ -46,7 +46,7 @@ footer {
     padding: 10px;
 }
 
-.about-me h1 {
+.main-content h1 {
     color:#4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     border-bottom:#cccccc 3px solid;
