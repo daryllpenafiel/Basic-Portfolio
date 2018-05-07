@@ -154,3 +154,8 @@ input #message {
 form p {
     line-height: 1em;
 }
+
+a {
+    text-decoration: inherit;
+    color: white;
+}
